@@ -1,0 +1,7 @@
+daftar_label = ["b", "a", "c", "a", "b"] # label
+
+def hitung_a(daftar_label):
+    # code
+    return hasil
+
+print(hitung_a(daftar_label))
