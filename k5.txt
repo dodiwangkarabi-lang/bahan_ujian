@@ -1,0 +1,13 @@
+mahasiswa = [
+    {"nim": "A01", "nama": "Amir", "uas": 80},
+    {"nim": "A02", "nama": "Budi", "uas": 90},
+    {"nim": "A03", "nama": "Cici", "uas": 40},
+    {"nim": "A04", "nama": "Dedi", "uas": 30},
+    {"nim": "A05", "nama": "Fifi", "uas": 40}
+]
+
+def cari_mahasiswa_tidak_lulus(mahasiswa):
+    # code
+    return hasil
+
+print(cari_mahasiswa_tidak_lulus(mahasiswa))
