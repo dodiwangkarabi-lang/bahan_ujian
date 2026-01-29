@@ -1,0 +1,7 @@
+daftar_nilai = [69, 78, 68, 65, 61, 21, 78, 24, 94, 6]
+
+def modif_nilai(daftar_nilai): # (94, 6)
+    # code
+    return ()
+
+print(modif_nilai(daftar_nilai))
