@@ -1,0 +1,11 @@
+akun = [
+    {"username": "amir", "password": "123"},
+    {"username": "budi", "password": "456"},
+    {"username": "cici", "password": "789"}
+]
+
+def login(username, password):
+    # code
+    return hasil
+
+print(login(username, password))
