@@ -11,3 +11,20 @@ def cari_mahasiswa_tidak_lulus(mahasiswa):
     return hasil
 
 print(cari_mahasiswa_tidak_lulus(mahasiswa))
+
+
+# 4
+# data list dict
+mahasiswa = [
+    {"nim": "A01", "nama": "Amir", "uas": 77},
+    {"nim": "A02", "nama": "Budi", "uas": 45},
+    {"nim": "A03", "nama": "Cici", "uas": 40},
+    {"nim": "A04", "nama": "Dedi", "uas": 80},
+    {"nim": "A05", "nama": "Fifi", "uas": 66}
+]
+
+def urutkan_berdasarkan_nilai(mahasiswa): 
+    # code (pakai perulangan)
+    return hasil
+
+print(urutkan_berdasarkan_nilai(mahasiswa))
